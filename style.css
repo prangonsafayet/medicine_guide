@@ -36,7 +36,8 @@ Main area------>
 	padding: 100px 0;
 	//background: #4b3f34;
 	color: black;
-	width: 100%;
+	width: 50%;
+    margin-left: 25%;
 }
 .login h1{
 	font-size: 45px;
